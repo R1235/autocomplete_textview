@@ -1,4 +1,5 @@
 # autocomplete_textview
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+sample project comitting to git
+>>>>>>> 2b3e62b7af8fe9d1f83d01c2e68b55a99feb7cf1
